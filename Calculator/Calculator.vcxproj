@@ -78,6 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="add.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="wjy.cpp" />
     <ClCompile Include="zs.cpp" />
