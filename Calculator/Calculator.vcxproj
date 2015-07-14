@@ -80,8 +80,6 @@
   <ItemGroup>
     <ClCompile Include="add.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="wjy.cpp" />
-    <ClCompile Include="zs.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
