@@ -21,5 +21,40 @@
     <ClCompile Include="add.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="sub.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mul.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="div.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Operation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Factory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Operation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Add.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Sub.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mul.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Div.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Factory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

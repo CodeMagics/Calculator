@@ -79,7 +79,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="add.cpp" />
+    <ClCompile Include="div.cpp" />
+    <ClCompile Include="Factory.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="mul.cpp" />
+    <ClCompile Include="Operation.cpp" />
+    <ClCompile Include="sub.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Add.h" />
+    <ClInclude Include="Div.h" />
+    <ClInclude Include="Factory.h" />
+    <ClInclude Include="Mul.h" />
+    <ClInclude Include="Operation.h" />
+    <ClInclude Include="Sub.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
